@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PrintBlock.qml</file>
+        <file>PlotBlock.qml</file>
+        <file>MapBlock.qml</file>
+        <file>GeoPopup.qml</file>
+        <file>ErrorBlock.qml</file>
+    </qresource>
+</RCC>
